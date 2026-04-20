@@ -1,0 +1,52 @@
+@font-face {
+  font-family: 'Pixelon';
+  src: url('/static/Pixelon.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+body {
+ background-image: url('static/bgfrenchfeathers.jpg');
+ background-color: #cccccc;
+ font-family: 'Pixelon', sans-serif;
+ color: slategray;
+}
+
+#intro-title { 
+    text-align: center;
+}
+
+#intro { 
+    text-align: justify;
+}
+
+.symbol { 
+  border-radius: 100%;
+}
+
+#symbol-1 { 
+  width: 250px;         
+  height: 250px;        
+  object-fit: cover;    
+  object-position: 70% 50%;
+}
+
+#symbol-wrapper { 
+  margin-top: 5%;
+  margin-bottom: 5%;
+  display: flex;
+  justify-content:space-evenly;
+}
+
+#footer-divider { 
+  width: 100%;
+  display: flex;
+  justify-content:space-evenly;
+}
+
+footer { 
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center; 
+}
