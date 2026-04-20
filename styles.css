@@ -50,8 +50,17 @@ body {
   height: 250px;
   display: block;
   margin: auto;
-  margin-top: 5%;
-  margin-bottom: 5%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+#symbol-2-hero {
+  width: 250px;
+  height: 250px;
+  display: block;
+  margin: auto;
+  margin-top: 1%;
+  margin-bottom: 1%;
 }
 
 .fortune-title { 

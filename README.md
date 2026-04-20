@@ -1,6 +1,6 @@
 
 Background image: https://pixelmoondust.neocities.org/archives/archivedtiles/colours/white
 
-Footer divider: https://pixel-soup.tumblr.com/tagged/dividers
+Footer divider, back arrow, bullet image: https://pixel-soup.tumblr.com/
 
 Symbol gifs: https://momg.neocities.org/info 
