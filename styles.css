@@ -45,6 +45,23 @@ body {
   justify-content:space-evenly;
 }
 
+#symbol-1-hero {
+  width: 250px;
+  height: 250px;
+  display: block;
+  margin: auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.fortune-title { 
+  text-align: center;
+}
+
+ul {
+  list-style-image: url('/static/moon-favicon.gif');
+}
+
 footer { 
   margin-top: 20px;
   margin-bottom: 20px;
